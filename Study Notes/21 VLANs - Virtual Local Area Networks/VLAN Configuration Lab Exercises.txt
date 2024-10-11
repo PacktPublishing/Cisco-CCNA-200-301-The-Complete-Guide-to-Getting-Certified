@@ -1,0 +1,4 @@
+VLAN Configuration Lab Exercises
+IMPORTANT - PLEASE READ!
+
+VLAN and Inter-VLAN routing lab exercises are included together at the end of the next section. Please watch the Inter-VLAN routing section next before completing the labs.
